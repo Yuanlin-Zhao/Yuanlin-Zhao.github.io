@@ -26,3 +26,4 @@ National College Students Transportation Science and Technology Competition prov
 Paper results:        
 Temporalformer:A Temporal Decomposition Casual Transformer Network For Wind Power Forecasting        
 Short-term wind power prediction method based on multivariate signal decomposiyion and RIME optimization algorithm    
+Nearshore optical video object detector based on temporal branch and spatial feature enhancement
