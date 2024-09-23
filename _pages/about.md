@@ -1,3 +1,19 @@
-I am a first-year PhD student at Chang'an University, and my research direction is artificial intelligence, intelligent pavement disease detection, image super-resolution reconstruction, etc.
-My mentor is Professor Li Wei. I studied at Hefei University from 2017 to 2021 for my bachelor's degree, and from 2022 to 2024 at Chang'an University's School of Information Engineering for my master's degree in Information and Communication Engineering. I will start my doctoral studies in Transportation Information Engineering and Control from 2024.
+I am a first-year doctoral student in Chang 'an University under the supervision of Professor Li Wei. At present, I am mainly engaged in image processing related work based on deep learning.
 
+Educational experience:
+Hefei University           Mechanical and Electronic Engineering        Bachelor    2017-2021
+Chang 'an University       Information and Communication Engineering    Master      2022-2024
+Chang 'an University       Traffic Information Engineering and Control  Ph.D.       2024-
+
+Research direction：
+Artificial intelligence, intelligent detection of road surface distress, image super-resolution reconstruction
+
+Internship Experience:        Xi 'an Fast Vision Optoelectronic Technology Co., LTD        2022-2024 
+Proficient in model quantitative development and deployment, software writing, etc.
+
+Awards and Honors: 
+National College Students Transportation Science and Technology Competition provincial excellence award
+
+Paper results:
+Temporalformer:A Temporal Decomposition Casual Transformer Network For Wind Power Forecasting
+Short-term wind power prediction method based on multivariate signal decomposiyion and RIME optimization algorithm
