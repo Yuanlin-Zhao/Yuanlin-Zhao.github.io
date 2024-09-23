@@ -20,9 +20,9 @@ Artificial intelligence, intelligent detection of road surface distress, image s
 Internship Experience:        Xi 'an Fast Vision Optoelectronic Technology Co., LTD        2022-2024             
 Proficient in model quantitative development and deployment, software writing, etc.   
 
-Awards and Honors:         
+Awards and Honors:           
 National College Students Transportation Science and Technology Competition provincial excellence award  
 
-Paper results:      
-Temporalformer:A Temporal Decomposition Casual Transformer Network For Wind Power Forecasting      
-Short-term wind power prediction method based on multivariate signal decomposiyion and RIME optimization algorithm  
+Paper results:        
+Temporalformer:A Temporal Decomposition Casual Transformer Network For Wind Power Forecasting        
+Short-term wind power prediction method based on multivariate signal decomposiyion and RIME optimization algorithm    
