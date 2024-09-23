@@ -10,9 +10,9 @@ redirect_from:
 I am a first-year doctoral student in Chang 'an University under the supervision of Professor Li Wei. At present, I am mainly engaged in image processing related work based on deep learning.
 
 Educational experience:
-Hefei University           Mechanical and Electronic Engineering        Bachelor    2017-2021
-Chang 'an University       Information and Communication Engineering    Master      2022-2024
-Chang 'an University       Traffic Information Engineering and Control  Ph.D.       2024-
+Hefei University       |    Mechanical and Electronic Engineering        |  Bachelor    2017-2021
+Chang 'an University   |    Information and Communication Engineering    |  Master      2022-2024
+Chang 'an University   |    Traffic Information Engineering and Control  |  Ph.D.       2024-
 
 Research direction：
 Artificial intelligence, intelligent detection of road surface distress, image super-resolution reconstruction
