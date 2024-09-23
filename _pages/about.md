@@ -18,7 +18,7 @@ Research direction：
 Artificial intelligence, intelligent detection of road surface distress, image super-resolution reconstruction  
 
 Internship Experience:          
-Xi 'an Fast Vision Optoelectronic Technology Co., LTD ################### 2022-2024             
+Xi 'an Fast Vision Optoelectronic Technology Co., LTD    2022-2024             
 Proficient in model quantitative development and deployment, software writing, etc.   
 
 Awards and Honors:           
