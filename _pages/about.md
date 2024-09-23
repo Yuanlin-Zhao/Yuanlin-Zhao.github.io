@@ -11,9 +11,9 @@ I am a first-year doctoral student in Chang 'an University under the supervision
 
 Educational experience:                                                                          
 Hefei University|Mechanical and Electronic Engineering|Bachelor|2017-2021    
-| :--- | :---: | ---: |   
+| :--- | :---: | ---: | ---: | 
 Chang 'an University|Information and Communication Engineering|Master|2022-2024    
-| :--- | :---: | ---: |   
+| :--- | :---: | ---: | ---: |  
 Chang 'an University|Traffic Information Engineering and Control|Ph.D.|2024-     
 
 Research direction：                                                                                  
