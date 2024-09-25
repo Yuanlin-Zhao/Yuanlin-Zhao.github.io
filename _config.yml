@@ -20,7 +20,7 @@ repository               : "mrjunjieli/mrjunjieli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhao.png"
+  avatar           : "profile.png"
   name             : "Zhao Yuanlin"
   pronouns         : "he"
   bio              : "Be the best you can be"
