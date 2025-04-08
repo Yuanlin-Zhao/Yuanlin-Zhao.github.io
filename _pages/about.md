@@ -1,37 +1,73 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "**ACADEMIC PAGES IS A READY-TO-FORK GITHUB PAGES TEMPLATE FOR ACADEMIC PERSONAL WEBSITES**"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a first year PhD student at Chang'an University under the supervision of Professor Wei Li. My major is traffic information engineering and control. Currently, I am mainly engaged in deep learning based image processing related work. My main research areas are video object detection, video super-resolution reconstruction, lightweight model development and quantisation deployment, and software development.
+**I AM A FIRST-YEAR PHD STUDENT AT CHANG'AN UNIVERSITY UNDER THE SUPERVISION OF PROFESSOR WEI LI.**  
+**MY MAJOR IS TRAFFIC INFORMATION ENGINEERING AND CONTROL.**  
+CURRENTLY, I AM MAINLY ENGAGED IN **DEEP LEARNING BASED IMAGE PROCESSING** RELATED WORK.  
+**MY MAIN RESEARCH AREAS INCLUDE:**  
+- **VIDEO OBJECT DETECTION**  
+- **VIDEO SUPER-RESOLUTION RECONSTRUCTION**  
+- **LIGHTWEIGHT MODEL DEVELOPMENT AND QUANTISATION DEPLOYMENT**  
+- **SOFTWARE DEVELOPMENT**
 
-Educational experience:                                                                          
-Hefei University     Mechanical and Electronic Engineering         Bachelor  2017-2021  
-Chang 'an University   Information and Communication Engineering        Master      2022-2024  
-Chang 'an University  Traffic Information Engineering and Control      Ph.D.       2024-     
+---
 
-Research direction：                                                                                  
-Artificial intelligence, intelligent detection of road surface distress, image super-resolution reconstruction  
+### 🎓 **EDUCATIONAL EXPERIENCE**
 
-Internship Experience:          
-Xi 'an Fast Vision Optoelectronic Technology Co., LTD    2022-2024             
-Proficient in model quantitative development and deployment, software writing, etc.   
+- **HEFEI UNIVERSITY**  
+  **BACHELOR | MECHANICAL AND ELECTRONIC ENGINEERING | 2017–2021**
 
-Awards and Honors:           
-National College Students Transportation Science and Technology Competition provincial excellence award  
+- **CHANG'AN UNIVERSITY**  
+  **MASTER | INFORMATION AND COMMUNICATION ENGINEERING | 2022–2024**
 
-Publications：    
-Wang, Y., Pei, L., Wang, Y., Zhao, Y., Xing, Z. (2024). Temporalformer: A Temporal Decomposition Causal Transformer Network For Wind Power Forecasting. In: Zhang, W., Tung, A., Zheng, Z., Yang, Z., Wang, X., Guo, H. (eds) Web and Big Data. APWeb-WAIM 2024. Lecture Notes in Computer Science, vol 14963. Springer, Singapore.  
-https://doi.org/10.1007/978-981-97-7238-4_1  
+- **CHANG'AN UNIVERSITY**  
+  **PH.D. | TRAFFIC INFORMATION ENGINEERING AND CONTROL | 2024–PRESENT**
 
-Wang Y, Pei L, Li W, et al. Short-term wind power prediction method based on multivariate signal decomposition and RIME optimization algorithm[J]. Expert Systems with Applications, 2024: 125376.  
-https://doi.org/10.1016/j.eswa.2024.125376.  
+---
 
-Nearshore optical video object detector based on temporal branch and spatial feature enhancement （Accepted 23 September 2024）
+### 🔬 **RESEARCH DIRECTION**
 
-Tian A, Li W, Lai P, et al. Multi-Target Rapid Detection of Road Underground Based on NCG-RetinaNet[C]//2024 9th International Conference on Computer and Communication Systems (ICCCS). IEEE, 2024: 73-78.  
-https://doi.org/10.1109/ICCCS61882.2024.10603235
+- **ARTIFICIAL INTELLIGENCE**  
+- **INTELLIGENT DETECTION OF ROAD SURFACE DISTRESS**  
+- **IMAGE SUPER-RESOLUTION RECONSTRUCTION**
+
+---
+
+### 💼 **INTERNSHIP EXPERIENCE**
+
+- **XI'AN FAST VISION OPTOELECTRONIC TECHNOLOGY CO., LTD | 2022–2024**  
+  **PROFICIENT IN MODEL QUANTITATIVE DEVELOPMENT AND DEPLOYMENT, SOFTWARE WRITING, ETC.**
+
+---
+
+### 🏆 **AWARDS AND HONORS**
+
+- **PROVINCIAL EXCELLENCE AWARD** — NATIONAL COLLEGE STUDENTS TRANSPORTATION SCIENCE AND TECHNOLOGY COMPETITION
+
+---
+
+### 📚 **PUBLICATIONS**
+
+- **WANG, Y., PEI, L., WANG, Y., ZHAO, Y., XING, Z. (2024). TEMPORALFORMER: A TEMPORAL DECOMPOSITION CAUSAL TRANSFORMER NETWORK FOR WIND POWER FORECASTING.**  
+  *In: Zhang, W., Tung, A., Zheng, Z., Yang, Z., Wang, X., Guo, H. (eds) Web and Big Data. APWeb-WAIM 2024. Lecture Notes in Computer Science, vol 14963. Springer, Singapore.*  
+  [https://doi.org/10.1007/978-981-97-7238-4_1](https://doi.org/10.1007/978-981-97-7238-4_1)
+
+- **WANG Y, PEI L, LI W, ET AL. SHORT-TERM WIND POWER PREDICTION METHOD BASED ON MULTIVARIATE SIGNAL DECOMPOSITION AND RIME OPTIMIZATION ALGORITHM.**  
+  *Expert Systems with Applications, 2024: 125376*  
+  [https://doi.org/10.1016/j.eswa.2024.125376](https://doi.org/10.1016/j.eswa.2024.125376)
+
+- **NEARSHORE OPTICAL VIDEO OBJECT DETECTOR BASED ON TEMPORAL BRANCH AND SPATIAL FEATURE ENHANCEMENT**  
+  **(FIRST AUTHOR | TOP JOURNAL, CAS ZONE 1 | IMPACT FACTOR: 7.5)**
+
+- **CRACKINSTANCE SEGMENTATION USING SPLITTABLE TRANSFORMER AND POSITION COORDINATES**  
+  **(FIRST AUTHOR | TOP JOURNAL, CAS ZONE 1 | IMPACT FACTOR: 9.6)**
+
+- **TIAN A, LI W, LAI P, ET AL. MULTI-TARGET RAPID DETECTION OF ROAD UNDERGROUND BASED ON NCG-RETINANET.**  
+  *2024 9th International Conference on Computer and Communication Systems (ICCCS). IEEE, 2024: 73–78.*  
+  [https://doi.org/10.1109/ICCCS61882.2024.10603235](https://doi.org/10.1109/ICCCS61882.2024.10603235)
