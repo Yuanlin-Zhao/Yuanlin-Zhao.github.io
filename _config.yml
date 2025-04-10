@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuanlin Zhao"
 description              : &description "personal description"
 url                      : https://mrjunjieli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   bio              : "Be the best you can be"
   location         : "Shaanxi,Xianyang   "
   employer         : "Chang 'an University"
-  email            : "1305937905@qq.com" 
+  email            : "zyl@chd.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
