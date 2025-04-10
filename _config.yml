@@ -29,7 +29,7 @@ author:
   location         : "China"
   employer         : "Chang'an University"
   uri              : # URL
-  email            : "zyl@chd.edu.cn" 
+  email            : #"zyl@chd.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
