@@ -15,6 +15,7 @@ Currently, I am mainly engaged in **Deep Learning Based Image Processing** relat
 - **Video Super‑Resolution Reconstruction**  
 - **Lightweight Model Development and Quantisation Deployment**  
 - **Software Development**
+- **Trajectory Prediction**
 
 ---
 
