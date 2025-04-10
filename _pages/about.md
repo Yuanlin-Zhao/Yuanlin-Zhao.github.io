@@ -54,17 +54,22 @@ Currently, I am mainly engaged in **Deep Learning Based Image Processing** relat
 
 ### 📚 **Publications**
 
-- **Wang, Y., Pei, L., Wang, Y., Zhao, Y., Xing, Z. (2024). Temporalformer: A Temporal Decomposition Causal Transformer Network for Wind Power Forecasting.**  
-  *In: Zhang, W., Tung, A., Zheng, Z., Yang, Z., Wang, X., Guo, H. (eds) Web and Big Data. APWeb‑WAIM 2024. Lecture Notes in Computer Science, vol 14963. Springer, Singapore.*  
+  **(First author | Top Journal, CAS Zone 1 | Impact Factor: 7.5 | CCF-C)**
 
-- **Wang Y, Pei L, Li W, et al. Short‑Term Wind Power Prediction Method Based on Multivariate Signal Decomposition and RIME Optimization Algorithm.**  
-  *Expert Systems with Applications, 2024: 125376*  
-
-- **Nearshore Optical Video Object Detector Based on Temporal Branch and Spatial Feature Enhancement**  
-  **(First author | Top Journal, CAS Zone 1 | Impact Factor: 7.5)**
-
-- **Crackinstance Segmentation Using Splittable Transformer and Position Coordinates**  
+- **Y Zhao, W Li, J Ding, Y Wang, L Pei, A Tian --- Crackinstance Segmentation Using Splittable Transformer and Position Coordinates - Automation in Construction, 2024）**  
   **(First author | Top Journal, CAS Zone 1 | Impact Factor: 9.6)**
 
-- **Tian A, Li W, Lai P, et al. Multi‑Target Rapid Detection of Road Underground Based on NCG‑RetinaNet.**  
-  *2024 9th International Conference on Computer and Communication Systems (ICCCS). IEEE, 2024: 73–78.*  
+- **J Ding, W Li, M Yang, Y Zhao, L Pei, A Tian --- Seatrack: Rethinking observation-centric sort for robust nearshore multiple object tracking - Pattern Recognition, 2025**
+  **(Fourth author | Top Journal, CAS Zone 1 | Impact Factor: 7.5 | CCF-B)**
+  
+- **J Ding, Y Zhao, L Pei, Y Shan, Y Du, W Li --- Modal-invariant progressive representation for multimodal image registration - Information Fusion, 2025**
+  **(Second author | Top Journal, CAS Zone 1 | Impact Factor: 14.8)**
+
+- **Y Wang, L Pei, W Li, Y Zhao, Y Shan --- Short-term wind power prediction method based on multivariate signal decomposition and RIME optimization algorithm - Expert Systems with Applications, 2025**
+  **(Fourth author | Top Journal, CAS Zone 1 | Impact Factor: 7.5 | CCF-C)**
+
+- **Y Wang, L Pei, Y Wang, Y Zhao, Z Xing --- Temporalformer: A Temporal Decomposition Causal Transformer Network For Wind Power Forecasting - Asia-Pacific Web**
+  **(Fourth author | CCF-C)**
+
+- **Y Shan, W Li, M Yang, J Ding, Y Zhao, A Tian --- A novel pipeline based on line-structured features and cross-camera perspectives for coarse aggregate point cloud registration - Expert Systems with Applications, 2025**
+  **(Fifth author | Top Journal, CAS Zone 1 | Impact Factor: 7.5 | CCF-C)**
