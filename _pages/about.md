@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "**ACADEMIC PAGES IS A READY-TO-FORK GITHUB PAGES TEMPLATE FOR ACADEMIC PERSONAL WEBSITES**"
+title: "**Aboue Me**"
 author_profile: true
 redirect_from:
   - /about/
