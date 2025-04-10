@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "zhao.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuanlin Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Eternity can wait; we fight for the present."
+  location         : "China"
+  employer         : "Chang'an University"
   uri              : # URL
   email            : "none@example.org" 
 
