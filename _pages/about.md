@@ -7,67 +7,64 @@ redirect_from:
   - /about.html
 ---
 
-**I AM A FIRST-YEAR PHD STUDENT AT CHANG'AN UNIVERSITY UNDER THE SUPERVISION OF PROFESSOR WEI LI.**  
-**MY MAJOR IS TRAFFIC INFORMATION ENGINEERING AND CONTROL.**  
-CURRENTLY, I AM MAINLY ENGAGED IN **DEEP LEARNING BASED IMAGE PROCESSING** RELATED WORK.  
-**MY MAIN RESEARCH AREAS INCLUDE:**  
-- **VIDEO OBJECT DETECTION**  
-- **VIDEO SUPER-RESOLUTION RECONSTRUCTION**  
-- **LIGHTWEIGHT MODEL DEVELOPMENT AND QUANTISATION DEPLOYMENT**  
-- **SOFTWARE DEVELOPMENT**
+**I am a first‑year PhD student at Chang'an University under the supervision of Professor Wei Li.**  
+**My major is Traffic Information Engineering and Control.**  
+Currently, I am mainly engaged in **Deep Learning Based Image Processing** related work.  
+**My main research areas include:**  
+- **Video Object Detection**  
+- **Video Super‑Resolution Reconstruction**  
+- **Lightweight Model Development and Quantisation Deployment**  
+- **Software Development**
 
 ---
 
-### 🎓 **EDUCATIONAL EXPERIENCE**
+### 🎓 **Educational Experience**
 
-- **HEFEI UNIVERSITY**  
-  **BACHELOR | MECHANICAL AND ELECTRONIC ENGINEERING | 2017–2021**
+- **Hefei University**  
+  **Bachelor | Mechanical and Electronic Engineering | 2017–2021**
 
-- **CHANG'AN UNIVERSITY**  
-  **MASTER | INFORMATION AND COMMUNICATION ENGINEERING | 2022–2024**
+- **Chang'an University**  
+  **Master | Information and Communication Engineering | 2022–2024**
 
-- **CHANG'AN UNIVERSITY**  
-  **PH.D. | TRAFFIC INFORMATION ENGINEERING AND CONTROL | 2024–PRESENT**
-
----
-
-### 🔬 **RESEARCH DIRECTION**
-
-- **ARTIFICIAL INTELLIGENCE**  
-- **INTELLIGENT DETECTION OF ROAD SURFACE DISTRESS**  
-- **IMAGE SUPER-RESOLUTION RECONSTRUCTION**
+- **Chang'an University**  
+  **Ph.D. | Traffic Information Engineering and Control | 2024–Present**
 
 ---
 
-### 💼 **INTERNSHIP EXPERIENCE**
+### 🔬 **Research Direction**
 
-- **XI'AN FAST VISION OPTOELECTRONIC TECHNOLOGY CO., LTD | 2022–2024**  
-  **PROFICIENT IN MODEL QUANTITATIVE DEVELOPMENT AND DEPLOYMENT, SOFTWARE WRITING, ETC.**
-
----
-
-### 🏆 **AWARDS AND HONORS**
-
-- **PROVINCIAL EXCELLENCE AWARD** — NATIONAL COLLEGE STUDENTS TRANSPORTATION SCIENCE AND TECHNOLOGY COMPETITION
+- **Artificial Intelligence**  
+- **Intelligent Detection of Road Surface Distress**  
+- **Image Super‑Resolution Reconstruction**
 
 ---
 
-### 📚 **PUBLICATIONS**
+### 💼 **Internship Experience**
 
-- **WANG, Y., PEI, L., WANG, Y., ZHAO, Y., XING, Z. (2024). TEMPORALFORMER: A TEMPORAL DECOMPOSITION CAUSAL TRANSFORMER NETWORK FOR WIND POWER FORECASTING.**  
-  *In: Zhang, W., Tung, A., Zheng, Z., Yang, Z., Wang, X., Guo, H. (eds) Web and Big Data. APWeb-WAIM 2024. Lecture Notes in Computer Science, vol 14963. Springer, Singapore.*  
+- **Xi'an Fast Vision Optoelectronic Technology Co., Ltd | 2022–2024**  
+  **Proficient in model quantitative development and deployment, software writing, etc.**
 
+---
 
-- **WANG Y, PEI L, LI W, ET AL. SHORT-TERM WIND POWER PREDICTION METHOD BASED ON MULTIVARIATE SIGNAL DECOMPOSITION AND RIME OPTIMIZATION ALGORITHM.**  
+### 🏆 **Awards and Honors**
+
+- **Provincial Excellence Award** — National College Students Transportation Science and Technology Competition
+
+---
+
+### 📚 **Publications**
+
+- **Wang, Y., Pei, L., Wang, Y., Zhao, Y., Xing, Z. (2024). Temporalformer: A Temporal Decomposition Causal Transformer Network for Wind Power Forecasting.**  
+  *In: Zhang, W., Tung, A., Zheng, Z., Yang, Z., Wang, X., Guo, H. (eds) Web and Big Data. APWeb‑WAIM 2024. Lecture Notes in Computer Science, vol 14963. Springer, Singapore.*  
+
+- **Wang Y, Pei L, Li W, et al. Short‑Term Wind Power Prediction Method Based on Multivariate Signal Decomposition and RIME Optimization Algorithm.**  
   *Expert Systems with Applications, 2024: 125376*  
 
+- **Nearshore Optical Video Object Detector Based on Temporal Branch and Spatial Feature Enhancement**  
+  **(First author | Top Journal, CAS Zone 1 | Impact Factor: 7.5)**
 
-- **NEARSHORE OPTICAL VIDEO OBJECT DETECTOR BASED ON TEMPORAL BRANCH AND SPATIAL FEATURE ENHANCEMENT**  
-  **(FIRST AUTHOR | TOP JOURNAL, CAS ZONE 1 | IMPACT FACTOR: 7.5)**
+- **Crackinstance Segmentation Using Splittable Transformer and Position Coordinates**  
+  **(First author | Top Journal, CAS Zone 1 | Impact Factor: 9.6)**
 
-- **CRACKINSTANCE SEGMENTATION USING SPLITTABLE TRANSFORMER AND POSITION COORDINATES**  
-  **(FIRST AUTHOR | TOP JOURNAL, CAS ZONE 1 | IMPACT FACTOR: 9.6)**
-
-- **TIAN A, LI W, LAI P, ET AL. MULTI-TARGET RAPID DETECTION OF ROAD UNDERGROUND BASED ON NCG-RETINANET.**  
+- **Tian A, Li W, Lai P, et al. Multi‑Target Rapid Detection of Road Underground Based on NCG‑RetinaNet.**  
   *2024 9th International Conference on Computer and Communication Systems (ICCCS). IEEE, 2024: 73–78.*  
-
