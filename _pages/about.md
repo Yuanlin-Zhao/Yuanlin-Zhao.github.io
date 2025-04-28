@@ -54,7 +54,7 @@ Currently, I am mainly engaged in **Deep Learning Based Image Processing** relat
 ---
 
 ### 📚 **Publications**
-- **Y Zhao, W Li, J Ding, Y Wang, Y Shan, L Pei --- A Pipeline for Enabling Nearshore Infrared Video Super-Resolution to Learn More High-Frequency Foreground Information, 2025 - Neutral Networks, 2025）**  
+- **Y Zhao, W Li, J Ding, Y Wang, Y Shan, L Pei --- A Pipeline for Enabling Nearshore Infrared Video Super-Resolution to Learn More High-Frequency Foreground Information, - Neutral Networks, 2025**  
   **(First author | Top Journal, CAS Zone 1 | Impact Factor: 6.0 | CCF-B)**
 
 - **Y Zhao, W Li, J Ding, Y Wang, L Pei, A Tian --- Nearshore optical video object detector based on temporal branch and spatial feature enhancement - Engineering Applications of Artificial Intelligence, 2024**  
