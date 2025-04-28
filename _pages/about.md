@@ -54,10 +54,13 @@ Currently, I am mainly engaged in **Deep Learning Based Image Processing** relat
 ---
 
 ### 📚 **Publications**
-- **Y Zhao, W Li, J Ding, Y Wang, L Pei, A Tian --- Nearshore optical video object detector based on temporal branch and spatial feature enhancement - Engineering Applications of Artificial Intelligence, 2024）**  
+- **Y Zhao, W Li, J Ding, Y Wang, Y Shan, L Pei --- A Pipeline for Enabling Nearshore Infrared Video Super-Resolution to Learn More High-Frequency Foreground Information, 2025 - Neutral Networks, 2025）**  
+  **(First author | Top Journal, CAS Zone 1 | Impact Factor: 6.0 | CCF-B)**
+
+- **Y Zhao, W Li, J Ding, Y Wang, L Pei, A Tian --- Nearshore optical video object detector based on temporal branch and spatial feature enhancement - Engineering Applications of Artificial Intelligence, 2024**  
   **(First author | Top Journal, CAS Zone 1 | Impact Factor: 7.5 | CCF-C)**
 
-- **Y Zhao, W Li, J Ding, Y Wang, L Pei, A Tian --- Crackinstance Segmentation Using Splittable Transformer and Position Coordinates - Automation in Construction, 2024）**  
+- **Y Zhao, W Li, J Ding, Y Wang, L Pei, A Tian --- Crackinstance Segmentation Using Splittable Transformer and Position Coordinates - Automation in Construction, 2024**  
   **(First author | Top Journal, CAS Zone 1 | Impact Factor: 9.6)**
 
 - **J Ding, W Li, M Yang, Y Zhao, L Pei, A Tian --- Seatrack: Rethinking observation-centric sort for robust nearshore multiple object tracking - Pattern Recognition, 2025**
